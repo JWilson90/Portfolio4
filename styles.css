@@ -56,3 +56,9 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+div3#twinedoc {
+	color: blue;
+	font-size: 30px;
+	font-family:Georgia, serif;
+	padding: 10px;
+}
