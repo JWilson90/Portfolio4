@@ -23,4 +23,8 @@ p {
 	padding: 0px;
 	
 }
-
+div#content {
+	background-color: grey;
+	text-align: center;
+	
+}
