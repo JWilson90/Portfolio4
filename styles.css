@@ -25,7 +25,7 @@ p {
 }
 div#content {
 	
-	text-align: center;
+	text-align: auto;
 	background-color: grey;
 	
 }
